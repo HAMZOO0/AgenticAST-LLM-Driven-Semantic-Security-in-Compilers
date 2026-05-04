@@ -1,0 +1,23 @@
+{
+  "type": "Program",
+  "body": [
+    auto age = 22;
+    auto gpa = 3.8;
+    auto name = "Hamza";
+    auto grade = 'A';
+    cout << name << endl;
+    if (age > 18) {
+    auto status = "Adult";
+    cout << status << endl;
+    }
+    auto count = 0;
+    while (count < 3) {
+    count = count + 1;
+    cout << count << endl;
+    }
+    auto total = age + 10;
+    cout << "In 10 years, I will be:" << endl;
+    cout << total << endl;
+
+  ]
+}

@@ -1,0 +1,21 @@
+age = 22
+gpa = 3.8
+name = "Hamza"
+grade = 'A'
+
+print name
+
+if (age > 18) {
+    status = "Adult"
+    print status
+}
+
+count = 0
+while (count < 3) {
+    count = count + 1
+    print count
+}
+
+total = age + 10
+print "In 10 years, I will be:"
+print total
