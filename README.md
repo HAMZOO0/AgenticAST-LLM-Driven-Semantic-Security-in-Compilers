@@ -14,10 +14,10 @@ AgenticAST also asks: *"Is the code safe to run?"*
 
 | Layer | Traditional Compiler | AgenticAST |
 |---|---|---|
-| Syntax Check | ✅ Yes | ✅ Yes |
-| Grammar Validation | ✅ Yes | ✅ Yes |
-| Semantic / Logic Audit | ❌ No | ✅ Yes (via LLM) |
-| Execution Gating | ❌ No | ✅ Yes |
+| Syntax Check |  Yes |  Yes |
+| Grammar Validation |  Yes |  Yes |
+| Semantic / Logic Audit |  No |  Yes (via LLM) |
+| Execution Gating |  No |  Yes |
 
 ---
 
