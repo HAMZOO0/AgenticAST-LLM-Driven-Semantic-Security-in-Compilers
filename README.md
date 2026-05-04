@@ -2,7 +2,7 @@
 
 > **An LLM-Driven Framework for Semantic Security in Compiler Design**
 
-AgenticAST is a custom compiler built with Flex and Bison that goes beyond traditional syntax checking. It exports an Abstract Syntax Tree (AST) as JSON and passes it to a Groq-powered AI agent (Llama 3.3-70B) for real-time semantic security analysis — **blocking unsafe code before a single instruction is executed.**
+AgenticAST is a custom compiler built with Flex and Bison that goes beyond traditional syntax checking. It exports an Abstract Syntax Tree (AST) as JSON and passes it to a Groq-powered AI agent (Llama 3.3-70B) for real-time semantic security analysis , **blocking unsafe code before a single instruction is executed.**
 
 ---
 
@@ -249,5 +249,4 @@ This project bridges two fields:
 
 The key innovation is the **Semantic Gap**: traditional compilers check *syntax* (form), while AgenticAST also checks *semantics* (meaning and intent) using an LLM.
 
-> *"AgenticAST: A Framework for LLM-Driven Semantic Security in Compiler Construction"*
 
